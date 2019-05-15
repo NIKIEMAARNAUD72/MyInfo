@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Info v1</string>
+    <string name="afficher">Afficher mot de passe</string>
+    <string name="connecter">Connecter</string>
+    <string name="register">Enregistrer</string>
+    <string name="quitter">Quitter</string>
+</resources>
